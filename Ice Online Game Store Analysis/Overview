@@ -1,0 +1,16 @@
+Ice Online Game Store Analysis
+Overview
+In this project we will analyze data from the online store Ice, which sells games all over the world.
+
+The data includes the following details:
+
+1) Name of the game
+2) Platform
+3) Year of release
+4) Genre
+5) Sales, divided into the following regions: North America, Europe, Japan, and all other regions. 
+6) Score: rating by critics and users. 
+7) ESRB Rating: category of who the game is suitable for (everyone, teens, adults only). 
+The data was recorded from the year 1980 until the year 2016.
+
+We imagine we are in December 2016, and our goal is to plan a campaign for 2017.
