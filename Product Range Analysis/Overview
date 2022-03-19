@@ -1,0 +1,42 @@
+E-Commerce Product Range Analysis
+Introduction
+Goals
+The goal of this project is to analyze the product range of an online store.
+
+To do so we shall analyze the following:
+
+Basket Analysis: We will find items that are typically bought together in the same invoice.
+
+Assortment: Using keywords in the product description we will try to identify the main categories of products.
+
+Returned Items: We will analyze the distribution of the ratio of returns of items and identify the products with highest ratio.
+
+Popularity: We will identify the most popular items, and analyze distribution of popularity.
+
+Seasonality: We will plot revenues and average invoice sizes by date to see if there is any seasonal pattern.
+
+Link for PDF Presentation
+https://drive.google.com/file/d/1MuLi6QFhrnAz6mI1vVJV3-kY0eUbZFk0/view?usp=sharing
+
+Link for Tableau Dashboard
+https://public.tableau.com/views/FinalProjectDashboard_16437228832330/DailyPurchases?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
+Description of the data:
+
+The dataset contains the transaction history of an online store that sells household goods.
+
+The file ecommerce_dataset_us.csv contains the following columns:
+
+InvoiceNo — order identifier
+
+StockCode — item identifier
+
+Description — item name
+
+Quantity
+
+InvoiceDate — order date
+
+UnitPrice — price per item
+
+CustomerID
