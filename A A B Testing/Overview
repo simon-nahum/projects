@@ -4,7 +4,8 @@ The goal of this project is to investigate user behaviour for the app of a compa
 
 We shall determine the sequence of events that typically leads to a purchase, and find the share of users that reach each stage.
 
-The company performed an A/A/B test, with two different fonts for all the app. The control groups viewed the old fonts, while the test group viewed the altered fonts. We shall determine whether changing the font influences the likelyhood of a user placing an order.
+The company performed an A/A/B test, with two different fonts for all the app. The control groups viewed the old fonts, while the test group viewed the altered fonts. 
+We shall determine whether changing the font influences the likelyhood of a user placing an order.
 
 Description of the data
 
