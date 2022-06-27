@@ -1,0 +1,12 @@
+Introduction
+
+The goal of this project is to assess the credit score of customers who ask for a loan. 
+To do so, I will analyse four parameters and their correlation to the default rate:
+
+1) Whether the customer has children or not
+
+2) Family status
+
+3) Total income
+
+4) The purpose for taking a loan
